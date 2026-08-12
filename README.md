@@ -22,6 +22,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +31,5 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
