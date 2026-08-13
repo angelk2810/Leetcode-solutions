@@ -22,6 +22,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Math
@@ -34,4 +35,8 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
