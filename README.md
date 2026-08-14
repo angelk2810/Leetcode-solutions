@@ -23,6 +23,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Math
@@ -39,4 +40,8 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
