@@ -21,6 +21,7 @@ This repository is a work in progress and will be updated as I solve more proble
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
@@ -35,6 +36,7 @@ This repository is a work in progress and will be updated as I solve more proble
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -49,5 +51,6 @@ This repository is a work in progress and will be updated as I solve more proble
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelk2810/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
