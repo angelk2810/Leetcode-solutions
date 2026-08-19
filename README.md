@@ -30,6 +30,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelk2810/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,12 +59,22 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelk2810/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
