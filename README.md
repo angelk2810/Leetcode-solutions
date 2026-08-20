@@ -30,6 +30,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/angelk2810/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelk2810/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
@@ -86,4 +87,8 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0575-distribute-candies](https://github.com/angelk2810/Leetcode-solutions/tree/master/0575-distribute-candies) |
 <!---LeetCode Topics End-->
