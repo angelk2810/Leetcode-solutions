@@ -35,6 +35,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0628-maximum-product-of-three-numbers](https://github.com/angelk2810/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/angelk2810/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/angelk2810/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/angelk2810/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
