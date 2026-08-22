@@ -31,6 +31,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/angelk2810/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/angelk2810/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelk2810/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -93,8 +94,13 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/angelk2810/Leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/angelk2810/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0682-baseball-game) |
+## String
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/angelk2810/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 <!---LeetCode Topics End-->
