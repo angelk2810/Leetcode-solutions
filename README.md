@@ -25,6 +25,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/angelk2810/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -53,6 +54,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -68,6 +70,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
 ## Sorting
@@ -120,6 +123,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0682-baseball-game) |
 ## String
 |  |
@@ -146,4 +150,8 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
