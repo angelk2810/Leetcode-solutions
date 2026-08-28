@@ -66,6 +66,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
 ## Sorting
@@ -116,11 +117,13 @@ This repository is a work in progress and will be updated as I solve more proble
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0682-baseball-game) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0415-add-strings](https://github.com/angelk2810/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/angelk2810/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Recursion
@@ -137,4 +140,8 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0039-combination-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
