@@ -127,10 +127,12 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/angelk2810/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/angelk2810/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Backtracking
 |  |
 | ------- |
