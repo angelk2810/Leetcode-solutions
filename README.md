@@ -23,6 +23,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
@@ -127,4 +128,8 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
