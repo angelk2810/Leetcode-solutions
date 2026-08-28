@@ -49,6 +49,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -122,4 +123,8 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
