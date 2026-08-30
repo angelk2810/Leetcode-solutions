@@ -71,6 +71,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/angelk2810/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
@@ -85,6 +86,7 @@ This repository is a work in progress and will be updated as I solve more proble
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -131,6 +133,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/angelk2810/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0415-add-strings](https://github.com/angelk2810/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/angelk2810/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -139,6 +142,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/angelk2810/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
