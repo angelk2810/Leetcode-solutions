@@ -29,6 +29,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/angelk2810/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
@@ -76,6 +77,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/angelk2810/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
 ## Sorting
@@ -112,6 +114,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0048-rotate-image](https://github.com/angelk2810/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
