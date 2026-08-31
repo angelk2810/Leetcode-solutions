@@ -153,6 +153,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -161,4 +162,8 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
