@@ -80,6 +80,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/angelk2810/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -173,6 +174,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0039-combination-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -193,4 +195,16 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/angelk2810/Leetcode-solutions/tree/master/0127-word-ladder) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
