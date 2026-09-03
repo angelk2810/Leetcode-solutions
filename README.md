@@ -207,4 +207,12 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/angelk2810/Leetcode-solutions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/angelk2810/Leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
