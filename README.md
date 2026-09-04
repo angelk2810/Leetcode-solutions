@@ -47,6 +47,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0682-baseball-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/angelk2810/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3903-smallest-stable-index-i](https://github.com/angelk2810/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3903-smallest-stable-index-i](https://github.com/angelk2810/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
