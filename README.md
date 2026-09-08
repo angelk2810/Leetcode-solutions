@@ -30,6 +30,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0048-rotate-image](https://github.com/angelk2810/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
@@ -125,6 +126,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0048-rotate-image](https://github.com/angelk2810/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
@@ -156,6 +158,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/angelk2810/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/angelk2810/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/angelk2810/Leetcode-solutions/tree/master/0127-word-ladder) |
@@ -180,6 +183,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0039-combination-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 ## Bracket Sequences
@@ -224,4 +228,8 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/angelk2810/Leetcode-solutions/tree/master/0190-reverse-bits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
