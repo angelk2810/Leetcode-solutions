@@ -59,6 +59,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0598-range-addition-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelk2810/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/angelk2810/Leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3945-digit-frequency-score](https://github.com/angelk2810/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0575-distribute-candies](https://github.com/angelk2810/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelk2810/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/angelk2810/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [3945-digit-frequency-score](https://github.com/angelk2810/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Stack
 |  |
 | ------- |
