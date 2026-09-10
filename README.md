@@ -58,6 +58,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0415-add-strings](https://github.com/angelk2810/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelk2810/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/angelk2810/Leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
 | ------- |
