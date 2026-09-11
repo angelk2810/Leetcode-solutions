@@ -21,6 +21,7 @@ This repository is a work in progress and will be updated as I solve more proble
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0039-combination-sum) |
@@ -63,6 +64,7 @@ This repository is a work in progress and will be updated as I solve more proble
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -95,6 +97,7 @@ This repository is a work in progress and will be updated as I solve more proble
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelk2810/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
