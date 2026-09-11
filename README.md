@@ -55,6 +55,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/angelk2810/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/angelk2810/Leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/angelk2810/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0598-range-addition-ii) |
@@ -182,6 +183,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0010-regular-expression-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/angelk2810/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/angelk2810/Leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
