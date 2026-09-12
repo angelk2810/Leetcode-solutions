@@ -31,6 +31,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0048-rotate-image](https://github.com/angelk2810/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -134,6 +135,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0048-rotate-image](https://github.com/angelk2810/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
@@ -149,6 +151,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/angelk2810/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/angelk2810/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/angelk2810/Leetcode-solutions/tree/master/0299-bulls-and-cows) |
