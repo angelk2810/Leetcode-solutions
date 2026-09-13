@@ -30,6 +30,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/angelk2810/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
@@ -88,6 +89,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -110,6 +112,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0044-wildcard-matching](https://github.com/angelk2810/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/angelk2810/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
