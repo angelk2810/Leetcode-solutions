@@ -28,6 +28,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0041-first-missing-positive](https://github.com/angelk2810/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/angelk2810/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/angelk2810/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/angelk2810/Leetcode-solutions/tree/master/0055-jump-game) |
@@ -103,6 +104,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0015-3sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0561-array-partition](https://github.com/angelk2810/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/angelk2810/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/angelk2810/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -200,6 +202,7 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/angelk2810/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
