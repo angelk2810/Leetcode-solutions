@@ -73,6 +73,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/angelk2810/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/angelk2810/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -197,6 +198,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/angelk2810/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0086-partition-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/angelk2810/Leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Backtracking
 |  |
