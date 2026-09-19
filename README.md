@@ -238,14 +238,17 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/angelk2810/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/angelk2810/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/angelk2810/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,4 +261,5 @@ This repository is a work in progress and will be updated as I solve more proble
 |  |
 | ------- |
 | [0079-word-search](https://github.com/angelk2810/Leetcode-solutions/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/angelk2810/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
