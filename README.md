@@ -76,6 +76,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0086-partition-list](https://github.com/angelk2810/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/angelk2810/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/angelk2810/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0466-count-the-repetitions](https://github.com/angelk2810/Leetcode-solutions/tree/master/0466-count-the-repetitions) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/angelk2810/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0120-triangle](https://github.com/angelk2810/Leetcode-solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0466-count-the-repetitions](https://github.com/angelk2810/Leetcode-solutions/tree/master/0466-count-the-repetitions) |
 | [0940-distinct-subsequences-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Sorting
 |  |
@@ -186,6 +188,7 @@ This repository is a work in progress and will be updated as I solve more proble
 | [0127-word-ladder](https://github.com/angelk2810/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/angelk2810/Leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/angelk2810/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0466-count-the-repetitions](https://github.com/angelk2810/Leetcode-solutions/tree/master/0466-count-the-repetitions) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/angelk2810/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0940-distinct-subsequences-ii](https://github.com/angelk2810/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
